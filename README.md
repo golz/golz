@@ -1,8 +1,8 @@
 ### hi there 👋
 
-👨‍ i'm goldwin!
+👨‍  i'm goldwin!
 
-💻  software development engineer
+💻   software development engineer
 
 ### work partners
 <img align='left' alt='HTML' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' />
@@ -15,7 +15,7 @@
 <img align='left' alt='PostgreSQL' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png' />
 <img align='left' alt='MongoDB' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png' />
 <img align='left' alt='GCP' width='26px' src='https://avatars0.githubusercontent.com/u/2810941?s=200&v=4' />
-<img align='left' alt='Kafka' width='26px' src='https://tse4.mm.bing.net/th?id=OIP.ysjLvf3gnrEEDlohSH_PFQHaIE&pid=Api&P=0&w=300&h=300' />
+<img align='left' alt='Kafka' width='26px' src='https://tse1.mm.bing.net/th?id=OIP.opCGA6vB3-uK-wovJxHocQHaMB&pid=Api&P=0&w=300&h=300' />
 
 <!--
 **golz/golz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
