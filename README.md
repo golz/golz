@@ -17,6 +17,10 @@
   <img align='left' alt='PostgreSQL' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png' />
   <img align='left' alt='MongoDB' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png' />
   <img align='left' alt='GCP' width='26px' src='https://avatars0.githubusercontent.com/u/2810941?s=200&v=4' />
+  <img align='left' alt='MySQL' width='26px' src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" />
+  <img align='left' alt='nginx' width='26px' src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" /> 
+  <img align='left' alt='Node.js' width='26px' src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align='left' alt='PHP' width='26px' src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" />
 </p>
 
 <p align="center">
