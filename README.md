@@ -21,6 +21,9 @@
   <img align='left' alt='nginx' width='26px' src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" /> 
   <img align='left' alt='Node.js' width='26px' src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align='left' alt='PHP' width='26px' src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" />
+  <img align='left' alt='Redis' width='26px' src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" />
+  <img align='left' alt='Vuetify' width='26px' src="https://bestofjs.org/logos/vuetify.svg" />
+  <img align='left' alt='Webpack' width='26px' src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" />
 </p>
 
 <p align="center">
