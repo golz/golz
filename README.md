@@ -17,10 +17,10 @@
 <img align='left' alt='MongoDB' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png' />
 <img align='left' alt='GCP' width='26px' src='https://avatars0.githubusercontent.com/u/2810941?s=200&v=4' />
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golz&layout=compact" alt="golz" />
   <img src="https://github-readme-stats.vercel.app/api?username=golz&show_icons=true" alt="golz" />
-</p>
+</div>
 <!--
 **golz/golz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
