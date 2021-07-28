@@ -36,7 +36,7 @@
 <img align='left' alt='Node.js' width='26px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align='left' alt='Redis' width='26px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" />
 
-<br />
+<br /><br />
 
 ### 🏆 Github Profile Trophy
 <a href="https://github.com/ryo-ma/github-profile-trophy">
