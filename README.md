@@ -37,7 +37,7 @@
 
 <br /><br />
 
-### 🏆 Github Profile Trophy
+### 🏆 GitHub profile trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=golz&column=8&theme=gruvbox&no-frame=true"/>
 </a>
